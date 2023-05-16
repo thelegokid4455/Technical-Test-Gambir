@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 036784ba94028ff4b8556f613db55b1f, type: 3}
+  m_Name: Grenade
+  m_EditorClassIdentifier: 
+  weaponName: Explosive Grenade
+  weaponType: 1
+  weaponProjectile: {fileID: 210839341271434047, guid: 51d2e5046585b0f4199caa033aa43679, type: 3}
+  weaponUnlimitedAmmo: 0
+  weaponIsAuto: 0
+  canReload: 0
+  weaponInaccuracy: 0
+  weaponMaxAmmoInMag: 1
+  weaponMaxAmmoInBag: 2
+  weaponDamage: 500
+  weaponForce: 500
+  weaponRange: 5
+  weaponProjectileSpeed: 500
+  weaponFireRate: 1
+  weaponReloadTime: 0
+  weaponHitEffect: {fileID: 0}
+  weaponBloodEffect: {fileID: 7199982893589630912, guid: 24df8810cc6c32846a5db8618e4ac4e4, type: 3}
+  weaponShootSound: {fileID: 8300000, guid: aec43a197a32c0f4f8bcc6a62b5b51bb, type: 3}
+  weaponReloadSound: {fileID: 0}
